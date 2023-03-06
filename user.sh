@@ -14,5 +14,7 @@ else
 	
   echo "the $name id is not exist"
 
-if  
+fi
+
+
 
